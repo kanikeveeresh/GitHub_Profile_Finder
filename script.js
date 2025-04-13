@@ -47,5 +47,5 @@ const getUser = () => {
 		fetchUser(user_name)
 	}
 
-	input_user.value = " ";
+	input_user.value = "";
 }
