@@ -25,6 +25,7 @@ body{
 }
 #vbtn{
     padding:5px;
+    cursor: pointer;
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 7px;
